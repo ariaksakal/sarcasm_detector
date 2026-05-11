@@ -1,6 +1,6 @@
 Sarcasm Detector
 
-AI-powered sarcasm detection system built using PyTorch and Hugging Face Transformers to classify sarcastic and non-sarcastic text through natural language processing techniques.
+sarcasm detection system built using PyTorch and Hugging Face Transformers to classify sarcastic and non-sarcastic text through natural language processing techniques.
 
 Features
 
